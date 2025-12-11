@@ -1,0 +1,58 @@
+
+body {
+    background-color: aqua;
+    color: darkorchid;
+}
+h1 { 
+color: brown;
+text-align: center;
+}
+h2 {
+    color: blanchedalmond;
+    text-decoration: underline;
+     font-style: italic;
+     font-weight: bold;
+}
+p{
+    font-size: 25px;
+}
+#pinkparragraph {
+    color: pink;
+}
+.pretty {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.common {
+    background-color: chartreuse;
+    border: 2px solid crimson;
+position: absolute
+}
+.left {
+    left: 15px;
+    top: 115px;
+    width: 100px;
+    height: 200px;
+
+}
+.main {
+    top: 115px;
+    left: 130px;
+    right: 140px;
+    bottom: 40px;
+
+}
+.right {
+    right: 15px;
+    top: 115px;
+    width: 100px;
+    height: 200px;
+
+}
+.footer {
+    left: 15px;
+    right: 15px;
+    bottom: 5px;
+    height: 25px;
+    position: fixed;
+    background-color: darkgreen;
+    border: 2px solid blue
+}
+

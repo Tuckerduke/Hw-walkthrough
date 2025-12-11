@@ -1,0 +1,61 @@
+
+body {
+    background-color: aqua;
+    color: darkorchid;
+}
+h1 { 
+color: brown;
+text-align: center;
+font-size: 36px;
+}
+h2 {
+    color: rgb(14, 9, 1);
+    text-decoration: underline;
+     font-style: italic;
+     font-weight: bold;
+}
+p{
+    font-size: 25px;
+}
+#pinkparagraph {
+    color: pink;
+}
+.pretty {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: red
+}
+.common {
+    background-color: chartreuse;
+    border: 2px solid crimson;
+position: absolute
+}
+.left {
+    left: 15px;
+    top: 200px;
+    width: 100px;
+    height: 200px;
+
+}
+.main {
+    top: 115px;
+    left: 130px;
+    right: 140px;
+    bottom: 40px;
+
+}
+.right {
+    right: 15px;
+    top: 115px;
+    width: 100px;
+    height: 200px;
+
+}
+.footer {
+    left: 15px;
+    right: 15px;
+    bottom: 50px;
+    height: 115px;
+    position: fixed;
+    background-color: rgb(141, 233, 141);
+    border: 2px solid blue
+}
+
